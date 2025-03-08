@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class QueueUsingArrayList {
-    public static void main(String args[]){
+    public static void main(String[] args){
         ArrayList<Integer> queue = new ArrayList<>();
 
         //Enqueue
