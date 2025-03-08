@@ -25,11 +25,5 @@ public class QueueUsingArrayList {
         //Get Front of the queue
         System.out.println("Front of the queue: "+ queue.get(0));
 
-
-
-
-
-
-
     }
 }
